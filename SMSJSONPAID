@@ -1,7 +1,7 @@
 {
     "app_status": {
-        "maintenance": false,
-        "message": "صيانة: لن تتجاوز 5 دقيقة سيتوفر تحديث",
+        "maintenance": true,
+        "message": "صيانة: لن تتجاوز 5 دقيقة",
         "telegram": "https://t.me/Group_Sinki"
     }
 }
