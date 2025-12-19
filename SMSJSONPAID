@@ -1,7 +1,7 @@
 {
     "app_status": {
-        "maintenance": false,
-        "message": "صيانة: لن تتجاوز 5 دقيقة",
+        "maintenance": true,
+        "message"Sinki Paid Stop",
         "telegram": "https://t.me/Group_Sinki"
     }
 }
